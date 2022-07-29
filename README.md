@@ -1,5 +1,5 @@
 # Estudo-de-caso-Pandas-e-Numpy
-Estudo de caso do livro Abordagem de estudo de caso para a criação de projetos de ciência de dados bem-sucedidos usando Python, pandas e scikit-learn de Stephen Klosterman.
+Estudo de caso do livro Abordagem de estudo de caso para a criação de projetos de ciência de dados bem-sucedidos usando Python, pandas e scikit-learn de Stephen Klosterman. Executado em Python E ALTERYX.
 Fontes de dados:
   http://archive.ics.uci.edu/ml/index.php
   http://bit.ly/2HIk5t3
